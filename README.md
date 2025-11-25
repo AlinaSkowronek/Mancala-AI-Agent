@@ -1,10 +1,8 @@
 # Mancala AI Agent
 
-This project implements an AI player for the classic board game **Mancala**, using search algorithms to choose strong moves. The AI was developed, tested, and analyzed in **Jupyter Notebook**, making it easy to visualize gameplay, run experiments, and compare performance across algorithms.
+This project implements an AI player for the classic board game **Mancala**, using search algorithms to choose strong moves with Python. The AI was developed, tested, and analyzed in **Jupyter Notebook**, making it easy to visualize gameplay, run experiments, and compare performance across algorithms.
 
 ---
-
-## 🎯 Overview
 
 ## 🎯 Overview
 
